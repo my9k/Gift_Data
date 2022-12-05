@@ -3,7 +3,6 @@
     
 {
 
-    "men": [
 
      {
     "id": "F6LAHM1015",
@@ -66,9 +65,9 @@
     "image4": "https://m.media-amazon.com/images/I/61guVRDYmtL._UY695_.jpg"
  }
 
-    ],
+    
 
-    "products":[
+    
       {
          "id": "M3LABD1001",
          "title": "cello Signature Moonlit Ball Pen  (Blue)",
@@ -148,7 +147,7 @@
    
     
      
-     ]
+     
 
   }
 
